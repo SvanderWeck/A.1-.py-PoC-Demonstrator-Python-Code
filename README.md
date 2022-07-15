@@ -1,5 +1,5 @@
 # A.1 .py PoC-Demonstrator Python Code
-Fogende Bedingungen müssen erfüllt sein:
+Fogende Bedingungen müssen erfüllt sein:\
 A) Neues Python Projekt muss erzeugt sein
 B) Virtuelle Entwicklungsumgebung muss aktiv sein (siehe "venv" Datei)
 C) Der "template" Ordner mit den notwendigen html Webseiten für die Darstellung sind im selben Ordner wie die .py Datei und vom Sourcecode zugänglich (ggf. Pfad in Code anpassen)
